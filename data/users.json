@@ -1,0 +1,38 @@
+[
+  {
+    "id": "u_IU9tpQcA",
+    "name": "Giancarlo",
+    "phone": "3003210567",
+    "email": "fgfdhhgh@gmail",
+    "address": "Cra 10 # 21-23 Pereira",
+    "age": 27,
+    "photoUrl": "gian.carlo@example.com"
+  },
+  {
+    "id": "u_1",
+    "name": "María Gómez",
+    "phone": "+57 3001234567",
+    "email": "maria.gomez@example.com",
+    "address": "Cra 10 # 20-30, Pereira",
+    "age": 28,
+    "photoUrl": "https://images.unsplash.com/photo-1531123897727-8f129e1688ce?q=80&w=640&auto=format&fit=crop"
+  },
+  {
+    "id": "u_2",
+    "name": "Juan Pérez",
+    "phone": "+57 3117654321",
+    "email": "juan.perez@example.com",
+    "address": "Cll 45 # 12-15, Bogotá",
+    "age": 32,
+    "photoUrl": "https://images.unsplash.com/photo-1547425260-76bcadfb4f2c?q=80&w=640&auto=format&fit=crop"
+  },
+  {
+    "id": "u_3",
+    "name": "Luisa Fernández",
+    "phone": "+57 3029988776",
+    "email": "luisa.fernandez@example.com",
+    "address": "Av Siempre Viva 123, Cali",
+    "age": 24,
+    "photoUrl": "https://images.unsplash.com/photo-1552374196-c4e7ffc6e126?q=80&w=640&auto=format&fit=crop"
+  }
+]
